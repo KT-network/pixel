@@ -1,4 +1,6 @@
-package com.kt.ks_pixel.KsPixel;
+package com.kt.ks_pixel.PixImage;
+
+
 
 import java.util.Arrays;
 

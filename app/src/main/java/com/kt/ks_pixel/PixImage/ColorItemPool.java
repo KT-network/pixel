@@ -1,4 +1,4 @@
-package com.kt.ks_pixel.KsPixel;
+package com.kt.ks_pixel.PixImage;
 
 import android.util.Log;
 

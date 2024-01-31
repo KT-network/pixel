@@ -1,5 +1,8 @@
 # 一个像素画板
 
+**衔接<谁的部下>像素屏画板**
+[谁的部下](https://github.com/KT-network/subordinate)
+
 **基于二次开发**
 [链接](https://github.com/moonssad/PixelToy)
 
